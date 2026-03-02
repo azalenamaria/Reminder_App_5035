@@ -28,4 +28,6 @@ To Start (hypotetically - did most of coding on online IDE):
   5) Run app, for android / ios: flutter run.
 
  Alternatively, on release page, there is a built-in apk. Just download and run on mobile device.
+
+ The project is done with assistance from Claude to learn flutter and my own tweaking so it will run.
        
