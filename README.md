@@ -4,7 +4,7 @@ This is a prototype for the task reminder app (No firebase server, authenticatio
 This app is used to manage daily tasks with categories and priorities. As it is state only, reloading the app will reset all data.
 
 For the initial release:
- - In memory, create, read, update, and delete tasks in memory.
+ - In memory, create, read, update, and delete tasks.
  - Categorize tasks
  - Set priority levels (Low, Medium, High, Urgent).
  - Filet tasks by category and priority.
