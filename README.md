@@ -22,7 +22,7 @@ It does not include:
 - data presistence
 - User Authentication
 
-To Start (hypotetically - did most of coding on online IDE):
+To run locally:
 
 1. Download flutter SDK and IDE.
 2. Get dependencies, on bash: flutter pub get
